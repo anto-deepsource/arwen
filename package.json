@@ -28,7 +28,7 @@
     "eslint": "^7.29.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
-    "nightwatch": "^1.7.6",
+    "nightwatch": "^1.7.13",
     "nuxt-vite": "^0.2.2",
     "postcss": "^8.3.5"
   }
